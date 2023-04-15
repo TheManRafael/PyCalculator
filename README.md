@@ -1,4 +1,4 @@
-# PyCalculator \
+# PyCalculator 
 A Calculater built with Python using tkinter \
 
 ##Installation \
